@@ -2,10 +2,17 @@
 
 
 # How-To
-   ADD INSTRUCTIONS IN HERE
+   1. Press the WINDOWS button and type 'cmd'.
+   2. Type 'python' into the cmd line.
+   3. This should bring you to the windows store where you can install the newest version of python for free. After installiation, exit the window.
+   4. Type 'pip3 install wheel' into the cmd line.
+   5. After the install in complete type 'pip3 install pandas' into the cmd line.
+   6. Navigate to the directory containing the program (ScoirCodeTest.py) and the CSV file (file.csv). You can do this by typing 'cd Desktop' if your files are on the desktop.
+   7. type 'ScoirCodeTest.py' into the cmd line.
+   8. Follow the prompts!
 
 # Assumptions
-   1. CSV file name is file.csv
+   1. CSV file name is File.csv
    2. CSV file is in the same directory as our program
    3. The user wants the whole record(s) to be returned as a result of the filter they choose
 
