@@ -7,7 +7,7 @@
 # Assumptions
    1. CSV file name is file.csv
    2. CSV file is in the same directory as our program
-   3. The user wants the whole record(s) to be returned as a result of the filter
+   3. The user wants the whole record(s) to be returned as a result of the filter they choose
 
 
 # Instructions
