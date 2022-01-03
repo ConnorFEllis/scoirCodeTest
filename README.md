@@ -1,7 +1,7 @@
-# csv-filter-challenge-public
+# csv-filter-challenge-public (Connor Ellis)
 
 
-# How-To
+# How-To (applicant section)
    1. Press the WINDOWS button and type 'cmd'.
    2. Type 'python' into the cmd line.
    3. This should bring you to the windows store where you can install the newest version of python for free. After installiation, exit the window.
@@ -11,7 +11,7 @@
    7. type 'ScoirCodeTest.py' into the cmd line.
    8. Follow the prompts!
 
-# Assumptions
+# Assumptions (applicant section)
    1. CSV file name is File.csv
    2. CSV file is in the same directory as our program
    3. The user wants the whole record(s) to be returned as a result of the filter they choose
